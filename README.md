@@ -1,17 +1,15 @@
 ### Hey there! I'm Shashank Bhat G S
 ### Great to see you here 👋
 
-<!--
-**shashankbhatgs/shashankbhatgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Shashank Bhat G S, currently pursuing my B.E in Computer Science and Business Systems from JSS Science and Technological University, Mysuru.
+Find out more about me & feel free to connect with me here:
 
-Here are some ideas to get you started:
+[Linkedin](www.linkedin.com/in/shashankbhatgs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+⚡**Technologies I'm familiar with :**
+1. Java
+1. C/C++
+1. Python
+
+
