@@ -12,4 +12,8 @@ Find out more about me & feel free to connect with me here:
 1. C/C++
 1. Python
 
-
+<p>
+  <img 
+   src="https://github-readme-stats.vercel.app/api?username=shashankbhatgs&show_icons=true&theme=tokyonight" 
+/>
+</p>
