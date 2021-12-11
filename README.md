@@ -4,7 +4,7 @@
 I am Shashank Bhat G S, currently pursuing my B.E in Computer Science and Business Systems from JSS Science and Technological University, Mysuru.
 Find out more about me & feel free to connect with me here:
 
-[Linkedin](https://www.linkedin.com/in/shashankbhatgs)
+**[Linkedin](https://www.linkedin.com/in/shashankbhatgs)**   **[Twitter](https://twitter.com/shashankbhatgs)**  **[Instagram](https://www.instagram.com/shashankbhatgs)**
 
 
 ⚡**Technologies I'm familiar with :**
