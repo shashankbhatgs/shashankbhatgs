@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shashankbhatgs" target="blank"><img src="https://img.shields.io/twitter/follow/shashankbhatgs?logo=twitter&style=for-the-badge" alt="shashankbhatgs" /></a> </p>
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **shashankbhatgs@gmail.com**
 
